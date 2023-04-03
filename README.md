@@ -11,39 +11,22 @@ Fullstack developer from France
 
 ### Languages and tools that I use
 
-<div>
+![JavaScript](https://img.shields.io/badge/JavaScript-C0AD17?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-253657?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-88BF7A?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-  <img align="top" src="https://img.shields.io/badge/JavaScript-C0AD17?style=for-the-badge&logo=javascript&logoColor=white" alt="Jvascript" title="JavaScript" height="25px">
-  
-  <img style="margin-top: 10px;" align="top" src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" title="TypeScript" height="25px">
-  
-  <img align="top" src="https://img.shields.io/badge/Python-253657?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" height="25px">
-  
-  <img align="top" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" title="PHP" height="25px">
-  
-  <img align="top" src="https://img.shields.io/badge/React/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white" alt="React" title="React" height="25px">
-  
-  <img align="top" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next" title="Next" height="25px">
-  
-  <img align="top" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node" title="Node" height="25px">
-  
-  <img align="top" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express" title="Express" height="25px">
-  
-  <img align="top" style="margin-top: 10px;" src="https://img.shields.io/badge/MongoDB-88BF7A?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" title="MongoDb" height="25px">
-  
-  <img align="top" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="Graphql" title="Graphql" height="25px">
-  
-  <img align="top" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Mysql" title="Mysql" height="25px">
-  
-  <img align="top" src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" title="Framer" height="25px">
-  
-  <img align="top" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" title="Tailwind" height="25px">
-  
-  <img align="top" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" title="HTML5" height="25px">
-  
-  <imgs style="margin-top: 10px;" align="top" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" title="CSS3" height="25px">
-
-</div>
 
 ### Github stats
 
