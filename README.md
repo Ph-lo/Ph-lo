@@ -38,7 +38,7 @@ Fullstack developer from France
 </div> -->
 
 <div>
-  <img style="margin-top: 10px;" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph-lo&theme=tokyonight&layout=compact&hide=php,blade" height="150px" alt="graph" title="Github graph" >
+  <img style="margin-top: 10px;" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph-lo&theme=tokyonight&layout=compact&hide=php,blade,html" height="150px" alt="graph" title="Github graph" >
 &nbsp;
 &nbsp;
   <img style="margin-top: 10px;" align="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ph-lo&theme=tokyonight" height="150px" alt="graph" title="Github graph" >
