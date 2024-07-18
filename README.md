@@ -1,32 +1,46 @@
 ![banner](https://user-images.githubusercontent.com/93910888/229377336-3c2a9114-51a9-4f30-9a76-88ac92a86c3d.jpg)
 
-Fullstack developer from France
+<!--
+[GitHub followers](https://img.shields.io/github/followers/Ph-lo?label=Follow&style=social)
+-->
 
 ### About me
 
-- 🔭 I’m currently working at [figue.io](https://www.figue.io/)
+- 🔭 Developer at [figue.io](https://www.figue.io/)
+- 📚 MSc student at Epitech
+<!--
 - 🌱 I’m currently learning Pyhton beside developing my skills in Typescript, React / React native, NextJS...
-- 📫 How to reach me: [here](mailto:philippe.locatelli@epitech.eu?subject=[GitHub]%20Source%20Han%20Sans)
-
+-->
 
 ### Languages and tools that I use
 
-![JavaScript](https://img.shields.io/badge/JavaScript-C0AD17?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-253657?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white)
-![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-88BF7A?style=for-the-badge&logo=mongodb&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+<p>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
+<img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+<img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+<br />
+<img alt="Tailwind css" src ="https://img.shields.io/badge/Tailwind css-09b6d4.svg?logo=tailwindcss&logoColor=white">
+<img alt="Framer motion" src="https://img.shields.io/badge/Framer motion-0055FF.svg?logo=framer&logoColor=white">
+<img alt="Next.JS" src ="https://img.shields.io/badge/Next.js-black.svg?logo=nextdotjs&logoColor=white">
+<img alt="React" src="https://img.shields.io/badge/React-React native-20232a.svg?logo=react&logoColor=%2361DAFB">
+<img alt="Expo" src="https://img.shields.io/badge/Expo-black.svg?logo=expo&logoColor=white">
+<br />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+<img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white">
+<img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
+<img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
+<br />
+<img alt="Arch Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
+<img alt="MacOS" src="https://img.shields.io/badge/macOS-black.svg?logo=macos&logoColor=white">
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white">
+<img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-black.svg?logo=intellijidea&logoColor=white">
+<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white">
+<img alt="raspberrypi" src="https://img.shields.io/badge/raspberrypi-A22846.svg?logo=raspberrypi&logoColor=white">
+</p>
 
 ### Github stats
 
@@ -37,29 +51,13 @@ Fullstack developer from France
 <img style="margin-top: 10px;" align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ph-lo&theme=github_dark" height="200px" alt="graph" title="Github graph" >
 </div> -->
 
-<div>
-  <img style="margin-top: 10px;" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph-lo&size_weight=0.5&count_weight=0.5&hide=php,html,css,blade&layout=compact&theme=tokyonight" height="150px" alt="graph" title="Github graph" >
-&nbsp;
-&nbsp;
-  <img style="margin-top: 10px;" align="top" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ph-lo&theme=tokyonight" height="150px" alt="graph" title="Github graph" >
-</div>
+<p align="left">
+<img style="margin-top: 10px; margin-right: 20px;" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=Ph-lo&theme=tokyonight" height="150px" alt="Github streak" title="Github streak" >
+  <img style="margin-top: 10px;" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph-lo&size_weight=0.5&count_weight=0.5&hide=php,html,css,blade,javascript&layout=compact&theme=tokyonight" height="150px" alt="graph" title="Github graph" >
+</p>
 <br/>
-<div>
-<img style="margin-top: 10px;" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=Ph-lo&theme=tokyonight" height="150px" alt="Github streak" title="Github streak" >
-</div>
 
-
-<!--
-**Ph-lo/Ph-lo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<a href="https://github.com/Big-Bratan">
+<img alt="BigBratan" src="https://img.shields.io/badge/Big--Bratan-white.svg?&logoColor=black">
+</a>
