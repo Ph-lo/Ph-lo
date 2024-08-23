@@ -3,6 +3,11 @@
 <!--
 [GitHub followers](https://img.shields.io/github/followers/Ph-lo?label=Follow&style=social)
 -->
+<div align="left">
+    <a title="Install custom-folder Raycast Extension" href="https://www.raycast.com/phlo/custom-folder" style="margin-left: -20px;">
+        <img src="https://www.raycast.com/phlo/custom-folder/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;">
+    </a>
+</div>
 
 ### About me
 
@@ -58,6 +63,11 @@
 <br/>
 
 ---
-<a href="https://github.com/Big-Bratan">
-<img alt="BigBratan" src="https://img.shields.io/badge/Big--Bratan-white.svg?&logoColor=black">
-</a>
+
+<div align="left">
+    <a href="https://github.com/Big-Bratan">
+        <img alt="BigBratan" src="https://img.shields.io/badge/Big--Bratan-white.svg?&logoColor=black">
+    </a>
+</div>
+
+
