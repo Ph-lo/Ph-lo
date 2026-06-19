@@ -22,11 +22,10 @@
 ```csharp
 About me ----------------------------------
 
-∙ Developer at: ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Figue.io
+∙ Developer at: ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Figue.ai
 ∙ MSc student at: ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Epitech
 
 ```
-<!-- ∙ Currently learning: ∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙∙ Rust -->
 
 
 <!-- <img style="margin-top: 10px; margin-right: 20px;" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Ph-lo&theme=tokyonight" height="150px" alt="Github streak" title="Github streak" > -->
@@ -39,18 +38,11 @@ About me ----------------------------------
 <!--   <img style="margin-top: 10px;" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph-lo&size_weight=0.5&count_weight=0.5&hide=php,html,css,blade,javascript&layout=compact&theme=tokyonight" height="150px" alt="graph" title="Github graph" > -->
 </div>
 
+<img style="margin-top: 10px; margin-right: 20px;" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=Ph-lo&theme=tokyonight" height="150px" alt="Github streak" title="Github streak" >
+
+
 ---
 
-<a title="Install custom-icon Raycast Extension" href="https://www.raycast.com/phlo/custom-icon">
-  <img 
-    height="52"
-    align="middle"
-    alt="Custom Icon Raycast extension" 
-    style="height: 52px;"
-    src="https://github.com/user-attachments/assets/b39cd753-385c-45b9-80d4-b7a8de2de0ac"
-  />
-</a>
-&nbsp;&nbsp;
 <a title="Install custom-folder Raycast Extension" href="https://www.raycast.com/phlo/custom-folder">
   <img 
     src="https://github.com/user-attachments/assets/829749fe-7928-4c3f-a280-66f3b2822f37"
@@ -59,6 +51,16 @@ About me ----------------------------------
     alt="Custom folder Raycast extension"
   />
 
+</a>
+&nbsp;&nbsp;
+<a title="Install custom-icon Raycast Extension" href="https://www.raycast.com/phlo/custom-icon">
+  <img 
+    height="52"
+    align="middle"
+    alt="Custom Icon Raycast extension" 
+    style="height: 52px;"
+    src="https://github.com/user-attachments/assets/b39cd753-385c-45b9-80d4-b7a8de2de0ac"
+  />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Big-Bratan">
@@ -71,4 +73,5 @@ About me ----------------------------------
   >
 </a>
 
-
+<br/>
+<br/>
