@@ -38,9 +38,6 @@ About me ----------------------------------
 <!--   <img style="margin-top: 10px;" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph-lo&size_weight=0.5&count_weight=0.5&hide=php,html,css,blade,javascript&layout=compact&theme=tokyonight" height="150px" alt="graph" title="Github graph" > -->
 </div>
 
-<img style="margin-top: 10px; margin-right: 20px;" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=Ph-lo&theme=tokyonight" height="150px" alt="Github streak" title="Github streak" >
-
-
 ---
 
 <a title="Install custom-folder Raycast Extension" href="https://www.raycast.com/phlo/custom-folder">
