@@ -40,35 +40,14 @@ About me ----------------------------------
 
 ---
 
-<a title="Install custom-folder Raycast Extension" href="https://www.raycast.com/phlo/custom-folder">
-  <img 
-    src="https://github.com/user-attachments/assets/829749fe-7928-4c3f-a280-66f3b2822f37"
-    height="52"
-    align="middle"
-    alt="Custom folder Raycast extension"
-  />
-
-</a>
+<a title="Install custom-folder Raycast Extension" href="https://www.raycast.com/phlo/custom-folder"><img src="https://github.com/user-attachments/assets/829749fe-7928-4c3f-a280-66f3b2822f37" height="52" align="middle" alt="Custom folder Raycast extension" /></a>
 &nbsp;&nbsp;
-<a title="Install custom-icon Raycast Extension" href="https://www.raycast.com/phlo/custom-icon">
-  <img 
-    height="52"
-    align="middle"
-    alt="Custom Icon Raycast extension" 
-    style="height: 52px;"
-    src="https://github.com/user-attachments/assets/b39cd753-385c-45b9-80d4-b7a8de2de0ac"
-  />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Big-Bratan">
-  <img
-    alt="BigBratan"
-    height="42"
-    align="middle"
-    src="https://avatars.githubusercontent.com/u/175559215?s=200&v=4"
-    alt="Big Bratan organization"
-  >
-</a>
+<a title="Install custom-icon Raycast Extension" href="https://www.raycast.com/phlo/custom-icon"><img height="52" align="middle" alt="Custom Icon Raycast extension" style="height: 52px;" src="https://github.com/user-attachments/assets/b39cd753-385c-45b9-80d4-b7a8de2de0ac" /></a>
 
 <br/>
+
+<a title="Big Bratan organization" href="https://github.com/Big-Bratan"><img alt="BigBratan" height="42" align="middle" src="https://avatars.githubusercontent.com/u/175559215?s=200&v=4" alt="Big Bratan organization" /></a>
+&nbsp;&nbsp;
+<a title="SHA-warma organization" href="https://github.com/SHA-warma"><img alt="SHA-warma" height="42" align="middle" src="https://avatars.githubusercontent.com/u/220740002?s=96&v=4" alt="SHA-warma organization" /></a>
+
 <br/>
